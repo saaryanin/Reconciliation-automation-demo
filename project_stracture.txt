@@ -1,0 +1,25 @@
+# Reconciliation System Prototype
+
+This repository demonstrates a prototype for a reconciliation system, showcasing skills in Python, data processing, and system design. The project is structured to handle data matching, preprocessing, and reporting, with a modular approach to support future enhancements.
+
+## Project Structure
+- `data/`: Stores input and output data, including reports, processed files, and training datasets.
+- `frontend/`: Contains scripts for the user interface (e.g., `frontend.py`).
+- `src/`: Houses the core Python scripts, including:
+  - `main.py`: Orchestrates the workflow.
+  - `preprocess.py`: Prepares data for analysis.
+  - `deposits_matcher.py` & `withdrawals_matcher.py`: Implement matching logic.
+  - `reports_creator.py`: Generates summary reports.
+  - `trackers_update.py`: Updates tracking mechanisms.
+  - `utils.py`: Provides reusable functions.
+  - `config.py`: Manages configuration settings.
+- `tests/`: Includes unit tests and sample data for validation.
+- `venv/`: Virtual environment for dependencies.
+
+## Skills Demonstrated
+- Python programming and modular design.
+- Data preprocessing and ETL processes.
+- Basic data matching and reporting workflows.
+
+## Usage
+This is a portfolio showcase. For detailed implementation, please contact the author. Do not reuse code without permission (MIT License applies).
