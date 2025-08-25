@@ -1,2 +1,2 @@
-This repository showcases a reconciliation system prototype, designed to match financial transactions and update tracking lists. It demonstrates skills in Python, ETL processes, and data structure optimization, built as part of a personal portfolio.
+This repository showcases a reconciliation system prototype, designed to match financial transactions between two system, which one is the CRM and the other are all the processors. It demonstrates skills in Python, ETL processes, and data structure optimization, built as part of a personal portfolio.
 Include a high-level flow: "The system includes a main orchestrator, data preprocessors, and report generators, with plans for utility functions and configuration management.
